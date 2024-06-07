@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SWIFTGI
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java modding for minecraft
 - ⚡ Fun fact: I am on a website, in a book and a maker of websites even though i'm only 10!
 
 <!---
